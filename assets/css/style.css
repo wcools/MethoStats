@@ -281,11 +281,18 @@ textarea.form-control {
 /* ---------------------------------------------- /*
  * Custom button style
 /* ---------------------------------------------- */
+/* ---------------------------------------------- /*
+.modal-backdrop {background-color: #aa8;}
+/* ---------------------------------------------- */
+.modal-header {background-color: #eed;}
+.modal-body {background-color: #ffe;}
+.modal-footer {background-color: #eed;}
 
 .btn {
 	font-family: Raleway, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 1px;
+	background: #eeeede;
 	font-size: 13px;
 	padding: 8px 26px;
 	border: 0;
@@ -507,7 +514,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 .iconbox {
-	background: #fff;
+	background: #eeeede;
 	border-bottom: 1px solid #d4d4d4;
 	text-align: center;
 	padding: 40px 20px;
