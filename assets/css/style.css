@@ -284,15 +284,15 @@ textarea.form-control {
 /* ---------------------------------------------- /*
 .modal-backdrop {background-color: #aa8;}
 /* ---------------------------------------------- */
-.modal-header {background-color: #eed;}
-.modal-body {background-color: #ffe;}
-.modal-footer {background-color: #eed;}
+.modal-header {background-color: #ddd;}
+.modal-body {background-color: #eee;}
+.modal-footer {background-color: #ddd;}
 
 .btn {
 	font-family: Raleway, sans-serif;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	letter-spacing: 1px;
-	background: #eeeede;
+	background: #ddd;
 	font-size: 13px;
 	padding: 8px 26px;
 	border: 0;
@@ -350,6 +350,9 @@ textarea.form-control {
 
 .pfblock-gray {
 	background: #f5f5f5;
+}
+.pfblock-darkgray {
+	background: #ddd;
 }
 
 .pfblock-image {
@@ -514,7 +517,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 .iconbox {
-	background: #eeeede;
+	background: #eee;
 	border-bottom: 1px solid #d4d4d4;
 	text-align: center;
 	padding: 40px 20px;
