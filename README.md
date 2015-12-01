@@ -1,2 +1,2 @@
 # MethoStats
-website freelance researcher: statistis / methodology
+website freelance researcher: statistics / methodology
