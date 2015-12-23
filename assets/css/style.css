@@ -354,6 +354,9 @@ textarea.form-control {
 .pfblock-darkgray {
 	background: #ddd;
 }
+.pfblock-lightgray {
+	background: #eee;
+}
 
 .pfblock-image {
 	padding: 0;
@@ -461,7 +464,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 #home {
-	background: url(../images/cover.jpg);
+	background: url(../images/coverx.jpg);
 	background-color: #222;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -638,6 +641,7 @@ textarea.form-control {
 	width: 100%;
 	z-index: 998;
 }
+
 
 .navbar-custom {
 	border: 0;
@@ -1088,4 +1092,5 @@ figure.effect-bubba:hover p {
 	}
 
 }
+
 
