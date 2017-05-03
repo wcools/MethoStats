@@ -1,27 +1,51 @@
-Terms of Service Agreement
-**************************
+# Terms of Service Agreement
 
+--- MethoStats: your sidekick for getting the most out of your research ---
 
+[agreement]
 
+All projects are discussed and agreed upon before the contract starts and any changes thereafter are included as amendements. Any agreement specifies the client's goals, what is offered by the client in terms of information/data to reach these goals, and the actual service that MethoStats can deliver to reach those ends. Any agreement further specifies the time frame, the billing, and the ownership as well as use of the data and its results. 
 
-All projects are discussed and agreed upon before the contract starts. 
-Any agreement specifies the client's goals and describes the expected service to be provided by MethoStats, the billing, time frame, the ownership and use of the data and results.
-
-
-
-An hourly rate is agreed upon. Exceptionally a project fee can be used aswell. Rates will be competitive for experts in the field.
-A rough estimate on the required time will be provided but it is noted that the estimate is conditional on an appropriate delivery of the required information in terms of both time and format. Any failure of the client to provide that information/data may result in a renegotiation of the contract and/or additional time.
-
-If changes are made, they are described in writing during the contract to serve as amendements.
 In the unlikely event of failing to deliver on behalf of MethoStats, any billing is waived fully or partially.
-Intermediate results can never be used and remain the property of MethoStats. If a contract is terminated by the client, the hours already worked are to be paid in full.
+If a contract is terminated by the client, the hours already worked and required for terminating the work are to be paid in full.
+
+[input]
+
+_data_ 
+
+If data are offered for analysis, the quality and format of the data should be as agreed upon. Failure to provide data with sufficient quality or structure may result in additional processing time. A statistical description of the data will be offered for future reference and to allow the client to verify its correctness.
+
+[output]
+
+_report_
+
+Unless agreed upon differently, the output will include a report that describes (wherever relevant) the goal of the analyses, the data, the analyses, the results, the statistical conclusions and the conclusions with respect to the goals put forward.
+
+_analysis_
+
+The typical report of an analysis consists of an R notebook which is an R Markdown document with executable chunks of code and R workspaces that include the relevant data and functions. This allows for future reference and adaptations, for reproducibility, and for straightforward communication of both the results and the process to obtain these results. Analyses are performed with the freely downloadable statistical programming language R.
+
+[ownership]
+
+Intermediate results can never be used and remain the property of MethoStats unless explicitely stated differently in writing. 
+Ownership of the work is handed over to the client when the contract is fulfilled and full payment is made. 
+MethoStats must be notified of any publication that uses its work fully or partially. References to MethoStats are not obligatory but appreciated. 
+Co-authorship could, in the case of publishing in international journals, result in free assistence during the review process.
+
+[communication]
+
+Drafts of the progress can be made available using cloud storage services like Google Drive or Dropbox for monitoring.
+Email is used for spontaneous communication and Skype meetings, Hangouts or phone calls can be arranged in advance from 9h to 21h UTC+02.
+
+[billing]
+
+_rate_
+
+For the billing, typically an hourly rate is agreed upon. While an estimate on the required time will be given, this estimate will in most cases be rough at best. In order to allow for the client to control the expenses, a regular update could be requested with the time spent, progress made and re-estimated time that is required for finishing the project. Rates are competitive with other experts in the field. If alternatively a fixed rate is preferred, this can be discussed. 
+
+_payement_
 
 Payement in full should be made the latest 30 days after the invoicing date in order to avoid a late fee daily penalty of 1%.
 Major projects will be split up in smaller projects that all will be invoiced separatly resulting in a maximum debt of 10000 euro at any time.
 
-Email is used for spontaneous communication and Skype meetings, Hangouts or phone calls can be arranged in advance from 9 to 21h.
-
-Ownership of the work changes at the end when the contract is fulfilled and full payment is made. MethoStats retains the right to use any delivered work, while guaranteeing anonymity when requested, unless otherwise agreed upon before the start of the contract.
-
-Efforst will be made to ensure minimal loss of work in the unlikely event of unforeseen or sudden termination of a project. The progress will be documented and saved in an accessible way and delivered by a third party made responsible on behalf of MethoStats.
-
+--- thank you for your trust and confidence ---
