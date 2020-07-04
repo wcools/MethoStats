@@ -117,12 +117,12 @@ a {
 	/*color: #999;*/
 a:link { 
     text-decoration: none;
-	color: #888844;
+	color: #448888;
 }
 
 a:visited { 
     text-decoration: none;
-	color: #888844;
+	color: #448888;
 }
 
 a:hover {
@@ -287,6 +287,7 @@ textarea.form-control {
 .modal-header {background-color: #ddd;}
 .modal-body {background-color: #eee;}
 .modal-footer {background-color: #ddd;}
+.modal-dialog {z-index: 1050;}
 
 .btn {
 	font-family: Raleway, sans-serif;
@@ -654,7 +655,7 @@ textarea.form-control {
 
 .navbar-custom,
 .navbar-custom .dropdown-menu {
-	background: #bbbb99;
+	background: #99bbbb;
 	padding: 0;
 }
 
@@ -663,7 +664,7 @@ textarea.form-control {
 .navbar-custom .navbar-nav .dropdown-menu > li > a {
 	font-size: 13px;
 	letter-spacing: 2px;
-	color: #333422;
+	color: #223333;
 	font-weight: bold;
 }
 
@@ -673,7 +674,7 @@ textarea.form-control {
 .navbar-custom .navbar-nav > li.active a {
 	background: none;
 	outline: 0;
-	color: #888844;
+	color: #448888;
 }
 
 .navbar-custom .navbar-brand {
