@@ -376,7 +376,7 @@ textarea.form-control {
 .pfblock-image h4,
 .pfblock-image h5,
 .pfblock-image h6 {
-	color: #fff;
+	color: #888;
 }
 
 .pfblock-header {
@@ -511,7 +511,7 @@ textarea.form-control {
 .start {
 	font-family: Raleway, "Times New Roman", Times, sans-serif;
 	font-size: 16px;
-	color: #aaa;
+	color: #888;
 	font-style: normal;
 	text-transform: none;
 	margin: 15px 0;
@@ -740,7 +740,7 @@ textarea.form-control {
 	position: absolute;
 	left: 50%;
 	bottom: 40px;
-	border: 2px solid #fff;
+	border: 2px solid #888;
 	border-radius: 50%;
 	height: 50px;
 	width: 50px;
@@ -752,7 +752,7 @@ textarea.form-control {
 
 .scroll-down span{
     position: relative;
-    color: #fff;
+    color: #888;
     -webkit-animation-name: drop;
 	-webkit-animation-duration: 1s;
 	-webkit-animation-timing-function: linear;
