@@ -117,12 +117,12 @@ a {
 	/*color: #999;*/
 a:link { 
     text-decoration: none;
-	color: #B23C09;
+	color: #448888;
 }
 
 a:visited { 
     text-decoration: none;
-	color: #B23C09;
+	color: #448888;
 }
 
 a:hover {
@@ -664,7 +664,7 @@ textarea.form-control {
 
 .navbar-custom,
 .navbar-custom .dropdown-menu {
-	background: #EE7744;
+	background: #99bbbb;
 	padding: 0;
 }
 
@@ -683,7 +683,7 @@ textarea.form-control {
 .navbar-custom .navbar-nav > li.active a {
 	background: none;
 	outline: 0;
-	color: #B23C09;
+	color: #448888;
 }
 
 .navbar-custom .navbar-brand {
@@ -705,7 +705,7 @@ textarea.form-control {
 .navbar-custom .nav .open > a,
 .navbar-custom .dropdown-menu > li > a:hover,
 .navbar-custom .dropdown-menu > li > a:focus {
-	background: #B23C09;
+	background: #f5f5f5;
 }
 
 .navbar-custom .navbar-toggle .icon-bar {
