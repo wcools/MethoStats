@@ -284,9 +284,18 @@ textarea.form-control {
 /* ---------------------------------------------- /*
 .modal-backdrop {background-color: #aa8;}
 /* ---------------------------------------------- */
-.modal-header {background-color: #ddd;}
-.modal-body {background-color: #eee;}
-.modal-footer {background-color: #ddd;}
+.modal-header {
+	background-color: #ddd;
+	color: #000;
+}
+.modal-body {
+	background-color: #eee;
+	color: #000;
+}
+.modal-footer {
+	background-color: #ddd;
+	color: #444;
+}
 .modal-dialog {z-index: 1050;}
 
 .btn {
@@ -376,7 +385,7 @@ textarea.form-control {
 .pfblock-image h4,
 .pfblock-image h5,
 .pfblock-image h6 {
-	color: #888;
+	color: #aaa;
 }
 
 .pfblock-header {
@@ -511,7 +520,7 @@ textarea.form-control {
 .start {
 	font-family: Raleway, "Times New Roman", Times, sans-serif;
 	font-size: 16px;
-	color: #888;
+	color: #aaa;
 	font-style: normal;
 	text-transform: none;
 	margin: 15px 0;
@@ -740,7 +749,7 @@ textarea.form-control {
 	position: absolute;
 	left: 50%;
 	bottom: 40px;
-	border: 2px solid #888;
+	border: 2px solid #aaa;
 	border-radius: 50%;
 	height: 50px;
 	width: 50px;
@@ -752,7 +761,7 @@ textarea.form-control {
 
 .scroll-down span{
     position: relative;
-    color: #888;
+    color: #aaa;
     -webkit-animation-name: drop;
 	-webkit-animation-duration: 1s;
 	-webkit-animation-timing-function: linear;
